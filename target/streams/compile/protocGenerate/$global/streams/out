@@ -1,5 +1,5 @@
-[0m[[0m[0minfo[0m] [0m[0mCompiling 1 protobuf files to /home/louiseo/Documents/proto/helloworld/target/scala-2.12/src_managed/main[0m
+[0m[[0m[0minfo[0m] [0m[0mCompiling 1 protobuf files to /home/isakbm/Code/scala_gRPC/target/scala-2.12/src_managed/main[0m
 [0m[[0m[0mdebug[0m] [0m[0mprotoc options:[0m
-[0m[[0m[0minfo[0m] [0m[0mCompiling schema /home/louiseo/Documents/proto/helloworld/src/main/protobuf/helloworld.proto[0m
+[0m[[0m[0minfo[0m] [0m[0mCompiling schema /home/isakbm/Code/scala_gRPC/src/main/protobuf/helloworld.proto[0m
 [0m[[0m[0minfo[0m] [0m[0mCompiling protobuf[0m
-[0m[[0m[0minfo[0m] [0m[0mProtoc target directory: /home/louiseo/Documents/proto/helloworld/target/scala-2.12/src_managed/main[0m
+[0m[[0m[0minfo[0m] [0m[0mProtoc target directory: /home/isakbm/Code/scala_gRPC/target/scala-2.12/src_managed/main[0m
